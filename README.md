@@ -31,7 +31,7 @@ We then selected a subset of the consented videos to form the first version of t
 | Total | 114 clips | 40 clips | 39 clips | 193 clips |
 
 
-Academic researchers can request access to the SENDv1 (see below for more details), and can gain access to the raw videos only for the videos with "Share-Ok" consent. Researchers will be able to access, for all videos, (i) extracted features, and (ii) valence ratings. More details about the extracted features and the valence ratings can be found in our [paper](http://dx.doi.org/10.1109/TAFFC.2019.2955949), referenced at the top of this readme. The table below offers a clearer summary of what data can be accessed:
+Academic researchers can request access to the SENDv1 (see below), and can gain access to the raw videos only for the videos with "Share-Ok" consent. Researchers will be able to access, for all videos, (i) extracted features, and (ii) valence ratings. More details about the extracted features and the valence ratings can be found in our [paper](http://dx.doi.org/10.1109/TAFFC.2019.2955949), referenced at the top of this readme. The table below offers a clearer summary of what data can be accessed:
 
 
 | Data | Limited-Use Consent | Share-Ok Consent |
@@ -44,13 +44,9 @@ Academic researchers can request access to the SENDv1 (see below for more detail
 | Crowd-sourced independent observer ratings of speaker valence | Yes | Yes |
 
 
-### Licenses
+### Licenses and Requesting Access
 
-We are currently finalizing the appropriate fair-use licenses and data sharing procedures, so stay tuned!
-
-### Requesting Access
-
-We are currently finalizing the appropriate fair-use licenses and data sharing procedures, so stay tuned!
+In order to request access to the SEND, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeDOEVB5p_W-MagZbIKQoB3pFCb0JW-NX7Br068M8m1ILJ3Lg/viewform?usp=sf_link). You will have to agree to the end-user license agreement.
 
 
 
