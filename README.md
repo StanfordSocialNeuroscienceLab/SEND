@@ -6,7 +6,7 @@ Ong, D. C., Wu, Z., Zhi-Xuan, T., Reddan, M., Kahhale, I., Mattek, A., & Zaki, J
 
 This repository is maintained by Desmond Ong. Questions, comments, etc should be directed to dco (at) comp (dot) nus (dot) edu (dot) sg
 
-We plan to release (parts of) the SEND to researchers in psychology, affective computing and related fields for research purposes only. We are currently finalizing the appropriate fair-use licenses and data sharing procedures, so stay tuned!
+We plan to release (parts of) the SEND to researchers in psychology, affective computing and related fields for research purposes only.
 
 
 
