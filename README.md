@@ -49,6 +49,16 @@ Academic researchers can request access to the SENDv1 (see below), and can gain 
 In order to request access to the SEND, please fill out this [form](https://docs.google.com/forms/d/e/1FAIpQLSeDOEVB5p_W-MagZbIKQoB3pFCb0JW-NX7Br068M8m1ILJ3Lg/viewform?usp=sf_link). You will have to agree to the end-user license agreement.
 
 
+### Performance Results of Different Models on SEND
+Multiple deep learning models were built to solve the SEND task as a time-series sentiment analysis task. The [CCC](https://en.wikipedia.org/wiki/Concordance_correlation_coefficient) score is used to evaluate performance of the model. Future models developed for solving the SEND task, please open an issue and we will update this table.
+
+| Model           | A | T | V | AT | TV | AV | ATV | Paper / Source |  Code |
+| ------------- | :-----:| :-----:| --- | --- | --- | --- | --- | --- | --- |
+| LSTM | 0.10 | 0.38 | 0.12 | 0.08 | 0.28 | 0.10 | 0.14 | [Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset](https://arxiv.org/pdf/1912.05008.pdf) | [Official](https://github.com/desmond-ong/TAC-EA-model) |
+| VRNN | 0.11 | 0.43 | 0.11 | 0.32 | 0.24 | 0.14 | 0.17 | [Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset](https://arxiv.org/pdf/1912.05008.pdf) | [Official](https://github.com/desmond-ong/TAC-EA-model) |
+| MFT | --- | --- | --- | 0.36 | 0.40 | 0.06 | 0.42 | [Attending to Emotional Narratives](arxiv.org/abs/1907.04197) | [Official](https://github.com/frankaging/ACII2019-transformer) |
+| Transformer + LSTM | --- | 0.54 | --- | --- | --- | --- | --- | [Structured Self-Attention Weights Encode Semantics in Sentiment Analysis](https://arxiv.org/abs/2010.04922) | [Official](https://github.com/frankaging/LAT_for_Transformer) |
+| Human | --- | --- | --- | --- | --- | --- | 0.50 | --- | --- |
 
 ### Why is this the first version of the SEND?
 
