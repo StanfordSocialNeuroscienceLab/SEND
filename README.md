@@ -64,3 +64,16 @@ Multiple deep learning models were built to solve the SEND task as a time-series
 
 We plan this to be a large, on-going project that will investigate empathy and emotion understanding through emotional narratives (and hopefully in the future, emotional dialogues too). In the short term, we are working on expanding this dataset to include a wider diversity of demographics---different age ranges, different socio-economic backgrounds, and even different cultural / language backgrounds. Our first release contains a good-sized dataset of English-speaking American targets, with a pretty diverse set of emotional narratives. We plan to supplement the SEND with future releases.
 
+
+
+## Erratum
+June 15, 2021: We noticed an error in the demographic reporting in the paper (just for gender, Table 1). The incorrect and updated values are:
+
+|            | Training | Validation | Test | Total |
+| ------------- | --- | --- | --- | --- | 
+| \# Targets | 29 | 10 | 10 | 49 |
+| \# Female | <strike>18 (62\%)</strike> 16 (55\%) | <strike>6 (60\%)</strike> 5 (50\%) | 6 (60\%) | <strike>30 (61%)</strike> 27 (55%) |
+
+
+
+
