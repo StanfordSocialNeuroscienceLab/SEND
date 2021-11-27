@@ -1,0 +1,26 @@
+End-User License Agreement
+By signing this End-User License Agreement, the User agrees to the following terms and conditions regarding the Stanford Emotional Narratives Dataset ("Dataset"):
+
+1. Distribution. User may not distribute the Dataset or portions thereof to other individuals who have not accepted the license agreement or the general public, with the exception of using screenshots or short segments for the sole purpose of clarifications in academic publications or presentations. 
+
+2. Commercial use. User may use the Dataset only for academic research. User may not use the Dataset for any commercial purposes, or for any research that directly leads to commercial purposes. Commercial purposes include, but are not limited to:
+        a. Training or validating commercial systems
+        b. Using screenshots of participants in the Dataset for advertisements
+        c. Selling data from the Dataset
+        d. Creating military applications
+        e. Creating surveillance applications
+
+3. Computer Generated Media. User is not allowed to synthesize and/or modify audio-realistic and/or video-realistic representations (indistinguishable from photo/video recordings) of the individuals in this Dataset. This includes synthesizing videos and/or audio of individuals telling modified or novel stories, or synthesizing the likeness of individuals in this Dataset performing actions not present in this Dataset ("deep fakes").
+
+4. Legal use. User may not use the Dataset for any purpose, intentionally or unintentionally, that will violate any applicable local, state, national or international law. 
+
+5. Changes. The Dataset administrators reserve the right to change this EULA at any time; users will be informed about changes beforehand and given the choice to opt out of the new EULA. Opting out will render the previous EULA void (and thus the user will lose their right to use the dataset).
+
+6. Warranty. The Dataset comes without any warranty. The Dataset administrators can not be held accountable for any damage (physical, financial or otherwise) caused by the use of the Dataset.
+
+
+If you use the dataset in any publications (papers, conference presentations)
+You agree to cite the following paper:
+ 
+Ong, D. C., Wu, Z., Zhi-Xuan, T., Reddan, M., Kahhale, I., Mattek, A., & Zaki, J. (in press). Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset. IEEE Transactions on Affective Computing. 
+DOI: 10.1109/TAFFC.2019.2955949
