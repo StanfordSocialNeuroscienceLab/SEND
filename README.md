@@ -2,9 +2,9 @@
 
 This repository contains information about the first version of the Stanford Emotional Narratives Dataset (SENDv1), described in the following [paper](http://dx.doi.org/10.1109/TAFFC.2019.2955949):
 
-Ong, D. C., Wu, Z., Zhi-Xuan, T., Reddan, M., Kahhale, I., Mattek, A., & Zaki, J. (in press). Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset. *IEEE Transactions on Affective Computing*.
+Ong, D. C., Wu, Z., Zhi-Xuan, T., Reddan, M., Kahhale, I., Mattek, A., & Zaki, J. (2021). Modeling emotion in complex stories: the Stanford Emotional Narratives Dataset. *IEEE Transactions on Affective Computing*, 12(3), 579-594.
 
-This repository is maintained by Desmond Ong. Questions, comments, etc should be directed to dco (at) comp (dot) nus (dot) edu (dot) sg
+This repository is maintained by Desmond Ong. Questions, comments, etc should be directed to desmond (dot) ong (at) utexas (dot) edu
 
 We plan to release (parts of) the SEND to researchers in psychology, affective computing and related fields for research purposes only.
 
